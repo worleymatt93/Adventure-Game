@@ -1,0 +1,7 @@
+                    [Forest Path] ---- [Deep Forest] ---- [Cave Entrance] ---- [Dark Cave]
+                         |                                         |                 |
+                         |                                         v                 v
+    [Riverbank] ---- [Clearing] ---- [House] ---- [Garden] ---- [Graveyard] ---- [Ancient Ruins]
+                         |                                         |
+                         v                                         v
+                  [Old Well]                                  [Swamp]
