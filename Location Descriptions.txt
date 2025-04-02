@@ -1,0 +1,35 @@
+House
+You are in your house. It’s a small, humble one-room dwelling, with an old bed in the corner covered in worn blankets. A table sits in the middle of the room, with an oil lamp flickering softly. The walls are made of rough timber, and the scent of wood and dust fills the air. Near the door, your boots are scattered as you prepare to head out. The house connects to the Clearing, Garden, and holds a path leading to the Riverbank.
+
+Clearing
+You step into a wide, open clearing. The sun filters through the branches above, casting soft rays across the tall grasses. Wildflowers sway in the gentle breeze, and the scent of fresh earth fills the air. In the distance, you can see the Riverbank, the Forest Path that leads deeper into the woods, and a faint path back to your House.
+
+Forest Path
+You stand on a narrow dirt path that winds through a thick forest. The trees are tall, their leaves rustling softly in the wind. It’s quiet here, except for the occasional snap of a twig or distant bird call. The path is overgrown with vines and moss, making it difficult to navigate at times. Ahead, the Deep Forest looms, darker and more mysterious, and to your right, the Cave Entrance beckons with an eerie chill.
+
+Deep Forest
+You feel a shiver run down your spine as you step deeper into the forest. The trees are thick here, their gnarled branches intertwining above, blocking out much of the light. The air is damp and heavy with the scent of decay. Strange, unsettling sounds echo from the shadows. You can’t shake the feeling that something is watching you as you continue toward the Cave Entrance.
+
+Cave Entrance
+You stand at the mouth of a dark, jagged cave. The opening is barely large enough for you to squeeze through, but you can hear a faint breeze coming from inside, carrying the scent of damp earth and stone. The darkness inside is absolute, and it feels cold to the touch. It’s a tight fit, but you’re drawn toward it, knowing the path down to the Dark Cave lies beyond.
+
+Dark Cave
+You step into the pitch-black cavern, feeling the cold stone beneath your feet. Your breath comes out in soft clouds as the chill wraps around you. The air is thick with moisture, and the walls feel slick to the touch. Every step you take echoes, but there’s no sign of light—only shadows stretching out before you. You’ll need to find a way to light your path if you want to explore deeper into the darkness.
+
+Garden
+You push open a weathered wooden gate and step into the overgrown garden. Vines creep along the stone walls, and wild flowers bloom haphazardly among the weeds. The air smells faintly of roses, though they are few and far between now. The once-immaculate paths are now tangled with roots and brambles. To your right, a small gate leads to the Graveyard, while another path leads deeper into the Swamp.
+
+Graveyard
+You find yourself standing in a quiet, eerie graveyard. Tombstones stand crooked and covered with moss, their inscriptions worn away by time. The air here is still, almost suffocating, and the grass beneath your feet is thick and uneven. The faint sound of rustling wind seems to carry whispers of the past. Beyond the gravestones, a path leads toward the mysterious Ancient Ruins.
+
+Ancient Ruins
+You step into the ruins of a long-forgotten place. Crumbled stone pillars rise from the ground, their surfaces etched with symbols you don’t quite recognize. The air is thick with dust and mystery, and there’s an eerie quiet here—broken only by the occasional creak of stone shifting in the wind. Something about this place feels ancient, as if the ruins hold secrets long buried by time.
+
+Riverbank
+You stand by the edge of a rushing river. The water sparkles under the sunlight, reflecting the blue sky above. The sound of the current is soothing, though the river is swift, its waters moving with a power that’s both beautiful and dangerous. Along the shore, small rocks and pebbles create an uneven path, but it’s unclear if you can cross. The Clearing is behind you, and you feel drawn to explore further.
+
+Old Well
+You stand in front of an ancient well, the stone walls weathered by time and covered in moss. The rope that once lowered a bucket is gone, leaving only an empty hole staring down into the darkness below. It’s quiet here, but there’s something about the well that beckons you. It feels as if it’s hiding something deep within, but you can’t tell what—only the unsettling feeling that something waits beneath the surface.
+
+Swamp
+You step cautiously into the swamp, the ground soft and spongy beneath your feet. The air is thick with fog, and the smell of decaying plants fills your nostrils. The trees around you are twisted and gnarled, their branches stretching out like skeletal hands. The swamp feels alive, the occasional splash of water or croak of a hidden creature making you jump. You feel uneasy as you move further, unsure of what lurks in the mist.
